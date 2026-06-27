@@ -1,16 +1,87 @@
-## Hi there 👋
+<!--================ HEADER ================-->
 
-<!--
-**ABIPRASAD/ABIPRASAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&duration=2200&pause=600&color=00BFFF&center=true&vCenter=true&width=1100&lines=Hi%2C+I'm+Abiprasad;Embedded+Systems+Engineer;Cybersecurity+Explorer;Linux+%7C+IoT+%7C+Secure+Architecture;Building+Secure+and+Reliable+Systems"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ Secure Systems • Embedded • Cybersecurity • Linux ⚡
+
+</div>
+
+---
+
+## 🚀 About Me
+
+
+
+Engineer passionate about building intelligent and secure systems.
+
+⚙ Embedded Systems & Firmware  
+
+🐧 Linux & System Programming  
+
+📡 IoT & Connected Platforms  
+
+🛡 Enterprise & Network Security  
+
+🏗 Secure Architecture & Threat Modeling  
+
+🚀 Defence & Mission-Critical Technologies  
+
+<br><br>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,docker"/>
+
+</div>
+
+<br>
+
+
+## 🔐 Security Areas
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Threat+Modeling;Network+Security;Attack+Surface+Analysis;Secure+Architecture;Cloud+Security;IoT+Security"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+🛡 Threat Modeling &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+🌐 Network Security &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+🔍 Attack Surface Analysis
+
+<br><br>
+
+🏗 Secure Architecture &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+☁ Cloud Security &nbsp;&nbsp; ✦ &nbsp;&nbsp;
+📡 IoT Security
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:001F3F,40:0047AB,100:00BFFF"/>
+
+### ⚡ Secure by Design • Reliability by Engineering ⚡
+
+</div>
