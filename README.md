@@ -77,4 +77,3 @@ Engineer passionate about building intelligent and secure systems.
 ### 💚 Secure by Design • Reliability by Engineering 💚
 
 </div>
-```
